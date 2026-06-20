@@ -1,0 +1,6 @@
+{
+  "name": "Cyberspace Mobile Security",
+  "description": "Deep mobile security auditing, SSL handshake screening, malware checklists, and custom multi-strategy Gemini AI threat advisors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
